@@ -6,55 +6,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>FlexiPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Profile</name>
     </types>
     <version>46.0</version>
 </Package>
