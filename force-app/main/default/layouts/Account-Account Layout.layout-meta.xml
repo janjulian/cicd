@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout xmlns="http://soap.sforce.com/2006/04/metadata">
-    <excludeButtons>DataDotComClean</excludeButtons>
     <excludeButtons>Submit</excludeButtons>
     <layoutSections>
         <customLabel>false</customLabel>
@@ -188,7 +187,10 @@
     </quickActionList>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>Sort_Order__c</fields>
         <relatedList>Alias__c.Account__c</relatedList>
+        <sortField>Sort_Order__c</sortField>
+        <sortOrder>Asc</sortOrder>
     </relatedLists>
     <relatedLists>
         <fields>FULL_NAME</fields>
