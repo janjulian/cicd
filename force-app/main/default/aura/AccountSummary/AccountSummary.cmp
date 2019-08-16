@@ -20,7 +20,7 @@
 
     <ul>
         <aura:iteration items="{!v.aliases}" var="alias">
-            <li>{!alias.Name}</li>
+            <li><span style="margin-right:10px"><b>{!alias.Sort_Order__c}</b></span><span>{!alias.Name}</span></li>
         </aura:iteration>
     </ul>
 </aura:component>
