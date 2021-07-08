@@ -26,3 +26,10 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
+
+# IDE
+.vim-force.com
+.sfdx
+.vscode
+.forceCode
+force.json
